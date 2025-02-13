@@ -27,7 +27,7 @@ Após configurar o ambiente para utilizar a linguagem Dart, siga estes passos pa
 Cada número possui uma funcionalidade específica.
 21 é a opção para sair do programa.
 
-📌 Functionalities / Funcionalidades
+## 📌 Functionalities / Funcionalidades
 Option	Functionality (English)	Funcionalidade (Português)
 1.	Prints "Hello, Dart!" /	Exibe "Hello, Dart!"
 2.	Declares and prints variables of different types /	Declara e imprime variáveis de diferentes tipos
